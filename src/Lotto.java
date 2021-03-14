@@ -7,7 +7,7 @@ public class Lotto {
 	 * Dominik Bregovic
 	 * Last change 13.03 2021
 	 * ======================
-	 * =======================
+	 *
 	 */
 
 	public static void main(String[] args) {
