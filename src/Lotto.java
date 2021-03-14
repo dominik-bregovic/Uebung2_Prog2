@@ -6,7 +6,7 @@ public class Lotto {
 	 * calculates over the time in millsec a checksum and with it the amount of tips
 	 * Dominik Bregovic
 	 * Last change 13.03 2021
-	 * 
+	 * =======================
 	 *
 	 */
 
